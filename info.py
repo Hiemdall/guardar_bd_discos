@@ -2,7 +2,7 @@ import requests # Lib para enviar la solicitud al servidor
 import platform # Lib para el serial
 import os # Lib para el modelo
 import psutil # Lib para identificar la RAM
-import json
+import json # Lib para trabjar con el formato JSON
 
 # Encabeza para la información
 print ("Soporte Técnico Integeratic SAS  \n")
